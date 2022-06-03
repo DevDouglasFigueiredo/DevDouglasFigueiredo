@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente desenvolvo projetos com ênfase em Front End ...
 - 🌱 Atualmente estou desenvolvendo projetos em JavaScript afim de me fortalecer na linguagem ...
+- 📚 Estudando Analise e Desenvolvimento de Sistemas na Estácio de Sá.
 
 <div align="center">
   <a href="https://github.com/DevDouglasFigueiredo">
