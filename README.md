@@ -1,7 +1,6 @@
 ### Faaaala pessoal, muito bem eu sou o Douglas Figueiredo e seja bem vindo ao meu Github 👋
 
-- 🔭 Atualmente desenvolvo projetos com ênfase em Front End ...
-- 🌱 Atualmente estou desenvolvendo projetos em JavaScript afim de me fortalecer na linguagem ...
+- 🔭 Atualmente tenho trabalhado com testes de qualidade de software.
 - 📚 Estudando Analise e Desenvolvimento de Sistemas na Estácio de Sá.
 - 📫 Você pode me encontrar no linkedin também https://www.linkedin.com/in/dev-douglas-figueiredo/
 
