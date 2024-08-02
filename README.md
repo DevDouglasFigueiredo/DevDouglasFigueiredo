@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente tenho trabalhado com testes de qualidade de software.
 - 📚 Estudando Analise e Desenvolvimento de Sistemas na Estácio de Sá.
-- 📫 Você pode me encontrar no linkedin também https://www.linkedin.com/in/dev-douglas-figueiredo/
+- 📫 Você pode me encontrar no linkedin também https://www.linkedin.com/in/qa-douglas-figueiredo/
 
 <div align="center">
   <a href="https://github.com/DevDouglasFigueiredo">
